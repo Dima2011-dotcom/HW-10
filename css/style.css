@@ -1,0 +1,17 @@
+button{
+    color: yellow;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 40px;
+    padding: 10px 20px;
+}
+button:hover{
+    color: orange;
+}
+button:focus{
+    color: orange;
+}
+p{
+    font-size: 18px;
+    font-style: italic;
+}
